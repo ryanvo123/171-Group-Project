@@ -5,4 +5,4 @@
 <br>
 Download link: https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data/data
 <br>
-**REQUIRED INSTALLATION**: surprise library
+**REQUIRED INSTALLATION**: Python v3.7+ w/surprise, scikit learn, sci py, random, pandas, numpy, seaborn, os, and matplotlib.
